@@ -8,7 +8,7 @@ Bug Fix:
 - Export data to Experimental PDF.
 - Export graphics to PDF and PNG.
 - Updated batik, cda, cpf and cpk libraries.
-- Ipdate libraries Apache Poi (poi,poi-ooxml,poi-scratchpad)    
+- Update libraries Apache Poi (poi,poi-ooxml,poi-scratchpad)    
 
 Improvements:
 - Added saiku.properties file in the root folder with momentary for Windows/ISO and Location settings.
