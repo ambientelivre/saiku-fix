@@ -5,7 +5,7 @@ In the last months the saiku project has not been improving or managing the Pull
 
 Bug Fix:
 - Export data to Excel / XLS.
-- Export data to PDF.
+- Export data to Experimental PDF.
 - Export graphics to PDF and PNG.
 - Updated batik, cda, cpf and cpk libraries.
 
