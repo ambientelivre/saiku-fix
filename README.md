@@ -10,8 +10,8 @@ Bug Fix:
 - Updated batik, cda, cpf and cpk libraries.
 
 Improvements:
-- Added saiku.properties file in the root folder with momentary for Windows and Location settings.
-- Withdrawn advertisements.
+- Added saiku.properties file in the root folder with momentary for Windows/ISO and Location settings.
+- Hidden advertisements.
 - Valid license included. 
 
 # For install
