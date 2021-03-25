@@ -13,3 +13,8 @@ Improvements:
 - Added saiku.properties file in the root folder with momentary for Windows and Location settings.
 - Withdrawn advertisements.
 - Valid license included. 
+
+# For install
+
+Remove <yourpehtahopath>/pentaho-server/pentaho-solutions/system/sayku
+Unzip saiku-fix-<Releaseversion> in  <yourpehtahopath>/pentaho-server/pentaho-solutions/system/ ,  create a saiku folder.
