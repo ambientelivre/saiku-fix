@@ -16,5 +16,7 @@ Improvements:
 
 # For install
 
-Remove <yourpehtahopath>/pentaho-server/pentaho-solutions/system/sayku
-Unzip saiku-fix-<Releaseversion> in  <yourpehtahopath>/pentaho-server/pentaho-solutions/system/ ,  create a saiku folder.
+Remove your folder of Saiku  <yourpehtahopath>/pentaho-server/pentaho-solutions/system/saiku
+Unzip saiku-fix-<Releaseversion> in <yourpehtahopath>/pentaho-server/pentaho-solutions/system/ ,  with a saiku name folder.
+
+
