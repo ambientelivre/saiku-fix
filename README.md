@@ -16,7 +16,7 @@ Improvements:
 - Hidden advertisements.
 - Valid license included. 
 
-# For install
+# Install
 
 Remove your folder of Saiku  yourpehtahopath/pentaho-server/pentaho-solutions/system/saiku
   
