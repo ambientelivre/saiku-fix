@@ -1,5 +1,6 @@
 # saiku-fix
 Saiku with Fix for Pentaho 9x
+Saiku with Fix for Pentaho 8x
 
 In the last months the saiku project has not been improving or managing the Pull Request of the project or even generating licenses on the site, here you can download a version with all the bubs found to run it in the 9x version of Pentaho Community
 
@@ -19,4 +20,6 @@ Improvements:
 
 Remove your folder of Saiku  yourpehtahopath/pentaho-server/pentaho-solutions/system/saiku
   
-Unzip saiku-fix-release-version (Sample https://github.com/ambientelivre/saiku-fix/releases/download/9x/saiku-fix-pentaho9.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
+Unzip saiku-fix-release-version (Sample 9x https://github.com/ambientelivre/saiku-fix/releases/download/9x/saiku-fix-pentaho9.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
+
+Others versions realeses : https://github.com/ambientelivre/saiku-fix/releases
