@@ -1,4 +1,5 @@
 # saiku-fix
+ - Saiku with Fix for Pentaho 9.4
  - Saiku with Fix for Pentaho 9x
  - Saiku with Fix for Pentaho 8x
 
