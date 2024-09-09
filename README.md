@@ -6,6 +6,7 @@ In the last months the saiku project has not been improving or managing the Pull
 
 Bug Fix:
 - Export data to Excel / XLS.
+- excel export data truncated and empty extra columns (https://groups.google.com/a/saiku.meteorite.bi/g/dev/c/7yINLLuElVM)
 - Export data to Experimental PDF.
 - Export graphics to PDF and PNG.
 - Updated batik, cda, cpf and cpk libraries.
@@ -18,8 +19,8 @@ Improvements:
 
 # Install
 
-Remove your folder of Saiku  yourpehtahopath/pentaho-server/pentaho-solutions/system/saiku
+Remove your folder of Saiku  your-pentaho-path/pentaho-server/pentaho-solutions/system/saiku
   
-Unzip saiku-fix-release-version (Sample 9x https://github.com/ambientelivre/saiku-fix/releases/download/9x/saiku-fix-pentaho9.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
+Unzip saiku-fix-release-version (Sample 9.4 https://github.com/ambientelivre/saiku-fix/releases/download/9x/saiku-fix-pentaho9.4.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
 
 Others versions realeses : https://github.com/ambientelivre/saiku-fix/releases
