@@ -21,6 +21,6 @@ Improvements:
 
 Remove your folder of Saiku  your-pentaho-path/pentaho-server/pentaho-solutions/system/saiku
   
-Unzip saiku-fix-release-version (Sample 9.4 https://github.com/ambientelivre/saiku-fix/releases/download/9x/saiku-fix-pentaho9.4.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
+Unzip saiku-fix-release-version (Sample 9.4 https://github.com/ambientelivre/saiku-fix/releases/download/9.4/saiku-fix-pentaho9.4.zip) and copy folder saiku for <yourpehtahopath>/pentaho-server/pentaho-solutions/system/
 
 Others versions realeses : https://github.com/ambientelivre/saiku-fix/releases
